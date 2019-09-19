@@ -2,12 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>gov.nist.secauto.oscal.tools.oscal-cli</groupId>
+		<groupId>gov.nist.secauto.oscal.tools.cli</groupId>
 		<artifactId>root</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.1.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>cli-framework</artifactId>
+	<artifactId>framework</artifactId>
 	<packaging>jar</packaging>
 
 	<name>OSCAL CLI Framework</name>

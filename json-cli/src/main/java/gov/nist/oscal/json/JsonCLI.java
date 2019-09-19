@@ -57,7 +57,7 @@ public class JsonCLI {
     } catch (ParseException ex) {
       System.err.println("error: " + ex.getMessage());
       help = true;
-      exitCode = 1;
+      exitCode = 2;
     }
 
     if (help) {
